@@ -12,23 +12,24 @@ kernelspec:
   name: python3
 ---
 
-# PHYS 305 Computational Physics
+# PHYS 305
 
 +++
 
-**Course Website:** https://ua-2025q1-phys305.github.io  
+**Course Number & Title:** PHYS 305—001 Computational Physics  
+**Course Website:** https://ua-2025q1-phys305.github.io
+
 **Full Syllabus:** {doc}`syllabus`
 
 **Time:** Tuesday & Thursday 12:30--1:45pm  
 **Location:** [Saguaro Hall, Room 114](https://map.arizona.edu/33/0114)
 
-**Instructor:** Chi-kwan Chan, chanc@arizona.edu  
-**TA:** Devendran Vemula, devendranvemula@arizona.edu  
-Please include "PHYS305" in the subject of emails
+**Instructor:** Chi-kwan Chan <chanc@arizona.edu>  
+**Guest Lecturer:** Nikhil Garuda <nikhilgaruda@arizona.edu>  
+**Teaching Assistant:** Devendran Vemula <devendranvemula@arizona.edu>  
+Please include "PHYS305" in subjects of emails
 
 +++
-
-## Scheduled Topics/Activities
 
 #  | Week | Tuesday | Thursday
 --- | --- | --- | ---
