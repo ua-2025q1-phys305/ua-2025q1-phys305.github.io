@@ -231,7 +231,7 @@ The student is expected to know his or her own performance throughout the course
 #  | Week | Tuesday | Thursday
 --- | --- | --- | ---
 1  | Jan 12–Jan 18 |                                                                 | {doc}`01/notes` and {doc}`01/lab`
-2  | Jan 19–Jan 25 | {doc}`02/notes`                                                 | Numerical linear algebra
+2  | Jan 19–Jan 25 | {doc}`02/notes` and {doc}`02/lab`                               | Numerical linear algebra
 3  | Jan 26–Feb  1 | Fourier transform and spectral analyses                         | Guest lecture: useful tools (homework)
 4  | Feb  2–Feb  8 | Interpolation and extrapolation                                 | Numerical and automatic derivatives
 5  | Feb  9–Feb 15 | Numerical integration of functions                              | Root finding (homework)
