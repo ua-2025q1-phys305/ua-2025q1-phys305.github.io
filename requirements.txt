@@ -4,6 +4,7 @@ jupyterlab-myst
 jupyterlab-rise
 jupyter-book
 nbstripout
+tqdm
 
 # Numerics
 numpy
