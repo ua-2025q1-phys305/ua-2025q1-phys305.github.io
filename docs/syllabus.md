@@ -21,7 +21,7 @@ kernelspec:
 
 **Semester and Year:** Spring 2025  
 **Time:** Tuesday & Thursday 12:30–1:45pm  
-**Location:** [Main Library, Room B254+B252](https://lib.arizona.edu/sites/default/files/main-floor2.pdf) except on Jan 16th, Feb 27th, and Mar 20th, on those days we meet in [Saguaro Hall, Room 114](https://map.arizona.edu/33/0114)
+**Location:** Social Sciences, Room 206
 
 +++
 
@@ -50,7 +50,7 @@ This course is a prerequisite for the following courses: PHYS 332, PHYS 426, PHY
 **Instructor:** Chi-kwan Chan  
 **Email:** chanc@arizona.edu (please include "PHYS305" in subjects of emails)  
 **Office:** Steward Observatory N332  
-**Office Hours:** Wednesday 11am--noon (Steward Observatory N332) or by appointment
+**Office Hours:** Monday 1--2pm, Wednesday 11am--noon (Steward Observatory N332), or by appointment
 
 **Teaching Assistant:** Devendran Vemula  
 **Email:** devendranvemula@arizona.edu (please include "PHYS305" in subjects of emails)
@@ -232,7 +232,7 @@ The student is expected to know his or her own performance throughout the course
 --- | --- | --- | ---
 1  | Jan 12–Jan 18 |                                                                 | {doc}`01/notes` ({doc}`lab <01/lab>`)
 2  | Jan 19–Jan 25 | {doc}`02/notes` ({doc}`lab <02/lab>`)                           | {doc}`03/notes` ({doc}`lab <03/lab>`, {doc}`sol <03/sol>`)
-3  | Jan 26–Feb  1 | {doc}`04/notes` ({doc}`lab <04/lab>`)                           | Guest lecture: useful tools (homework)
+3  | Jan 26–Feb  1 | {doc}`04/notes` ({doc}`lab <04/lab>`)                           | Guest lecture: {doc}`05/notes` ([homework 1](https://classroom.github.com/a/pF35huEj))
 4  | Feb  2–Feb  8 | Interpolation and extrapolation                                 | Numerical and automatic derivatives
 5  | Feb  9–Feb 15 | Numerical integration of functions                              | Root finding (homework)
 6  | Feb 16–Feb 22 | Optimization                                                    | Data modeling I
