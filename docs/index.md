@@ -25,7 +25,7 @@ kernelspec:
 **Location:** Social Sciences, Room 206
 
 **Instructor:** Chi-kwan "CK" Chan <chanc@arizona.edu> Office hour: Mon 1-2pm, Wed 11am–noon (SO N332)  
-**Teaching Assistant:** Devendran "Deva" Vemula <devendranvemula@arizona.edu>  
+**Teaching Assistant:** Devendran "Deva" Vemula <devendranvemula@arizona.edu> Consultation hour: Wed 12 - 1pm (PAS 372)
 **Preceptor:** Nikhil Garuda <nikhilgaruda@arizona.edu>  
 Please include "PHYS305" in subjects of emails
 
@@ -36,8 +36,8 @@ Please include "PHYS305" in subjects of emails
 1  | Jan 12–Jan 18 |                                                                 | {doc}`01/notes` ({doc}`lab <01/lab>`)
 2  | Jan 19–Jan 25 | {doc}`02/notes` ({doc}`lab <02/lab>`)                           | {doc}`03/notes` ({doc}`lab <03/lab>`, {doc}`sol <03/sol>`)
 3  | Jan 26–Feb  1 | {doc}`04/notes` ({doc}`lab <04/lab>`)                           | Guest lecture: {doc}`05/notes` ([homework 1](https://classroom.github.com/a/pF35huEj))
-4  | Feb  2–Feb  8 | Interpolation and extrapolation                                 | Numerical and automatic derivatives
-5  | Feb  9–Feb 15 | Numerical integration of functions                              | Root finding (homework)
+4  | Feb  2–Feb  8 | {doc}`06/notes` ({doc}`lab <06/lab>`)                           | {doc}`07/notes`
+5  | Feb  9–Feb 15 | {doc}`08/notes`                                                 | Root finding (homework)
 6  | Feb 16–Feb 22 | Optimization                                                    | Data modeling I
 7  | Feb 24–Mar  1 | Data modeling II                                                | Selected techniques in machine learning (homework)
 8  | Mar  2–Mar  8 | Project I presentations                                         | Project I presentations
