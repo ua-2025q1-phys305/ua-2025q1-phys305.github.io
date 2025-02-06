@@ -3,19 +3,40 @@
 
 format: jb-book
 root: index
-chapters:
-- file: syllabus
-- file: 01/notes
-- file: 01/lab
-- file: 02/notes
-- file: 02/lab
-- file: 03/notes
-- file: 03/lab
-- file: 03/sol
-- file: 04/notes
-- file: 04/lab
-- file: 05/notes
-- file: 06/notes
-- file: 06/lab
-- file: 07/notes
-- file: 08/notes
+parts:
+- caption: Syllabus
+  chapters:
+  - file: syllabus
+- caption: Overview
+  chapters:
+  - file: 01/notes
+  - file: 01/lab
+- caption: Data Representation
+  chapters:
+  - file: 02/notes
+  - file: 02/lab
+- caption: Numerical Linear Algebra
+  chapters:
+  - file: 03/notes
+  - file: 03/lab
+  - file: 03/sol
+- caption: Fourier Transform and Spectral Analyses
+  chapters:
+  - file: 04/notes
+  - file: 04/lab
+  - file: 04/sol
+- caption: Useful Tools
+  chapters:
+  - file: 05/notes
+- caption: Interpolation and Extrapolation
+  chapters:
+  - file: 06/notes
+  - file: 06/lab
+  - file: 06/sol
+- caption: Numerical and Automatic Derivatives
+  chapters:
+  - file: 07/notes
+  - file: 07/lab
+- caption: Numerical Integration of Functions
+  chapters:
+  - file: 08/notes
