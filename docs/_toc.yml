@@ -41,3 +41,4 @@ parts:
 - caption: Numerical Integration of Functions
   chapters:
   - file: 08/notes
+  - file: 08/lab
