@@ -42,3 +42,4 @@ parts:
   chapters:
   - file: 08/notes
   - file: 08/lab
+  - file: 08/sol
