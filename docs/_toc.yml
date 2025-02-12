@@ -46,3 +46,4 @@ parts:
 - caption: Root finding
   chapters:
   - file: 09/notes
+  - file: 09/lab
