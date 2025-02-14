@@ -47,3 +47,4 @@ parts:
   chapters:
   - file: 09/notes
   - file: 09/lab
+  - file: 09/sol
