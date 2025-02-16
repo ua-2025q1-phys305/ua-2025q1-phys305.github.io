@@ -38,7 +38,7 @@ Please include "PHYS305" in subjects of emails
 3  | Jan 26–Feb  1 | {doc}`04/notes` ({doc}`lab <04/lab>`, {doc}`sol <04/sol>`)      | Guest lecture: {doc}`05/notes` ([homework 1](https://classroom.github.com/a/pF35huEj))
 4  | Feb  2–Feb  8 | {doc}`06/notes` ({doc}`lab <06/lab>`, {doc}`sol <06/sol>`)      | {doc}`07/notes` ({doc}`lab <07/lab>`, {doc}`sol <07/sol>`)
 5  | Feb  9–Feb 15 | {doc}`08/notes` ({doc}`lab <08/lab>`, {doc}`sol <08/sol>`)      | {doc}`09/notes` ({doc}`lab <09/lab>`, {doc}`sol <09/sol>`)
-6  | Feb 16–Feb 22 | Optimization (homework)                                         | Data modeling I
+6  | Feb 16–Feb 22 | {doc}`10/notes` ({doc}`lab <10/lab>`; homework)                 | Data modeling I
 7  | Feb 24–Mar  1 | Data modeling II                                                | Selected techniques in machine learning
 8  | Mar  2–Mar  8 | Project I presentations                                         | Project I presentations (homework)
 9  | Mar  9–Mar 15 | **Spring recess (no class)**                                    | **Spring recess (no class)**

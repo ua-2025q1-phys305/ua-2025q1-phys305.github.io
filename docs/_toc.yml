@@ -48,3 +48,7 @@ parts:
   - file: 09/notes
   - file: 09/lab
   - file: 09/sol
+- caption: Optimization
+  chapters:
+  - file: 10/notes
+  - file: 10/lab
