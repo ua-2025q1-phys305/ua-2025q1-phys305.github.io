@@ -52,3 +52,4 @@ parts:
   chapters:
   - file: 10/notes
   - file: 10/lab
+  - file: 10/sol
