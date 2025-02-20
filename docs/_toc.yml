@@ -57,3 +57,4 @@ parts:
   chapters:
   - file: 11/notes
   - file: 11/lab
+  - file: 11/sol
