@@ -61,3 +61,4 @@ parts:
 - caption: Data Modeling II
   chapters:
   - file: 12/notes
+  - file: 12/lab
