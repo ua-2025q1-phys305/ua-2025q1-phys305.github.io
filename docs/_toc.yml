@@ -63,3 +63,7 @@ parts:
   - file: 12/notes
   - file: 12/lab
   - file: 12/sol
+- caption: Selected techniques in machine learning
+  chapters:
+  - file: 13/slices.pdf
+  - file: 13/lab
