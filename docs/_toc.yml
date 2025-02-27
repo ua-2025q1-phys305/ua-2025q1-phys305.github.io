@@ -62,3 +62,4 @@ parts:
   chapters:
   - file: 12/notes
   - file: 12/lab
+  - file: 12/sol
