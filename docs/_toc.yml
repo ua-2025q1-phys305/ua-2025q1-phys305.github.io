@@ -70,3 +70,4 @@ parts:
 - caption: ODE integrators I
   chapters:
   - file: 14/notes
+  - file: 14/lab
