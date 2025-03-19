@@ -72,3 +72,6 @@ parts:
   - file: 14/notes
   - file: 14/lab
   - file: 14/sol
+- caption: ODE integrators II
+  chapters:
+  - file: 15/notes
