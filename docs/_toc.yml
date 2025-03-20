@@ -75,3 +75,5 @@ parts:
 - caption: ODE integrators II
   chapters:
   - file: 15/notes
+  - file: 15/lab
+  - file: 15/sol
