@@ -81,3 +81,4 @@ parts:
   chapters:
   - file: 16/notes
   - file: 16/lab
+  - file: 16/sol
