@@ -82,3 +82,7 @@ parts:
   - file: 16/notes
   - file: 16/lab
   - file: 16/sol
+- caption: The C programming language
+  chapters:
+  - file: 17/notes
+  - file: 17/lab
