@@ -86,3 +86,8 @@ parts:
   chapters:
   - file: 17/notes
   - file: 17/lab
+  - file: 17/sol
+- caption: Monte Carlo methods I
+  chapters:
+  - file: 18/notes
+  - file: 18/lab

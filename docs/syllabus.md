@@ -243,7 +243,7 @@ The student is expected to know his or her own performance throughout the course
 9  | Mar  9–Mar 15 | **Spring recess (no class)**                                    | **Spring recess (no class)**
 10 | Mar 16–Mar 22 | {doc}`14/notes` ({doc}`lab <14/lab>`, {doc}`sol <14/sol>`)      | {doc}`15/notes` ({doc}`lab <15/lab>`, {doc}`sol <15/sol>`)
 11 | Mar 24–Mar 29 | {doc}`16/notes` ({doc}`lab <16/lab>`, {doc}`sol <16/sol>`)      | {doc}`17/notes` ({doc}`lab <17/lab>`, sol; homework)
-12 | Mar 30–Apr  5 | Monte Carlo methods I: random numbers and random walk           | Monte Carlo methods II: Ising model
+12 | Mar 30–Apr  5 | {doc}`18/notes` ({doc}`lab <18/lab>`, sol)                      | Monte Carlo methods II: Ising model
 13 | Apr  6–Apr 12 | Monte Carlo methods III: Hopfield network and Boltzmann machine | Parallel computing (homework)
 14 | Apr 13–Apr 19 | Numerical PDEs I: properties of PDEs                            | Numerical PDEs II: finite difference and spectral methods
 15 | Apr 20–Apr 26 | Numerical PDEs III: finite volume methods                       | Numerical PDEs IV: finite element methods (homework)
