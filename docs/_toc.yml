@@ -95,3 +95,6 @@ parts:
 - caption: Monte Carlo II
   chapters:
   - file: 19/notes
+- caption: Monte Carlo III
+  chapters:
+  - file: 20/notes
