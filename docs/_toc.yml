@@ -98,3 +98,6 @@ parts:
 - caption: Monte Carlo III
   chapters:
   - file: 20/notes
+- caption: Parallel Computing
+  chapters:
+  - file: 21/notes
