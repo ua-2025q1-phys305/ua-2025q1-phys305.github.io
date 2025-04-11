@@ -101,3 +101,15 @@ parts:
 - caption: Parallel Computing
   chapters:
   - file: 21/notes
+- caption: PDE I
+  chapters:
+  - file: 22/notes
+- caption: PDE II
+  chapters:
+  - file: 23/notes
+- caption: PDE III
+  chapters:
+  - file: 24/notes
+- caption: PDE IV
+  chapters:
+  - file: 25/notes

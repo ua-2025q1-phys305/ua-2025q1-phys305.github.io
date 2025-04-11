@@ -45,8 +45,8 @@ Please include "PHYS305" in subjects of emails
 11 | Mar 24–Mar 29 | {doc}`16/notes` ({doc}`lab <16/lab>`, {doc}`sol <16/sol>`) | {doc}`17/notes` ([homework](https://classroom.github.com/a/16sdd2i8))
 12 | Mar 30–Apr  5 | {doc}`18/notes` ({doc}`lab <18/lab>`, {sol}`sol <18/sol>`) | {doc}`19/notes`
 13 | Apr  6–Apr 12 | {doc}`20/notes`                                            | {doc}`21/notes` (homework)
-14 | Apr 13–Apr 19 | Numerical PDEs I: properties of PDEs                       | Numerical PDEs II: finite difference and spectral methods
-15 | Apr 20–Apr 26 | Numerical PDEs III: finite volume methods                  | Numerical PDEs IV: finite element methods (homework)
+14 | Apr 13–Apr 19 | {doc}`22/notes`                                            | {doc}`23/notes`
+15 | Apr 20–Apr 26 | {doc}`24/notes`                                            | {doc}`25/notes` (homework)
 16 | Apr 27–May  3 | Project II presentations                                   | Project II presentations
 17 | May  4–May 10 | Visiting UA HPC                                            | **Reading Day (no class)**
 
